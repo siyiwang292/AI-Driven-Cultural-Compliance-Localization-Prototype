@@ -171,7 +171,8 @@ VITE_OPENAI_API_KEY=your_key_here
 
 If this key is not supplied, the system automatically runs in simulation mode.
 
-change /AI-Driven-Cultural-Compliance-Localization-Prototype/dist/assets/index-Cv30ojpP.js file\n
+change /AI-Driven-Cultural-Compliance-Localization-Prototype/dist/assets/index-Cv30ojpP.js file
+
 search 'api_key_need_change' and change it into your key
 
 ### 3. Start the Development Server
